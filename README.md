@@ -1,9 +1,4 @@
-<!--<h1 align="center">Hi there 👋, I'm Ian Kisali</h1>-->
-
-<h1 align="center">
-<img src="header.svg" />
-</h1>
-
+<h1> Hi there 👋, I'm Sedoo Bittto</h1>-->
 
 <p align="center"> <a href="https://twitter.com/sedoobitto" target="blank"><img src="https://img.shields.io/twitter/follow/sedoobitto?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sedoobitto" /></a> </p>
 
@@ -12,8 +7,7 @@
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/SedooBitto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Sedoobitto&screen_name=Sedoobitto)-->
 
 
-Software Engineering and Project Management student with basic skills in
-Software and Management seeking to contribute my acquired skills in building innovative solutions to world probelms.
+- 👨🏽‍💻 Software Engineering and Project Management student with basic skills in Software and Management and passionate in solving world problems with my acquired skills.
 
 - 👀 I’m interested in Tech.
 
