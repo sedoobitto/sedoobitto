@@ -7,7 +7,7 @@
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/SedooBitto?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%Sedoobitto&screen_name=Sedoobitto)-->
 
 
-- 👨🏽‍💻 Software Engineering and Project Management student with basic skills in Software and Management and passionate in solving world problems with my acquired skills.
+- 👨🏽‍💻 Software Engineering and Project Management student with basic skills in Software and Management. Pssionate in solving world problems with my acquired skills.
 
 - 👀 I’m interested in Tech.
 
