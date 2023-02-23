@@ -1,19 +1,10 @@
-- 👋 Hi, I’m @sedoobitto
-
-- 🌱 I’m currently learning Software Engineering
-<!-- - 💞️ I’m looking to collaborate  -->
-<!-- - 📫 How to reach me ... -->
-
-
-
-
 <!--<h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>-->
 
 <h1 align="center">
 <img src="header.svg" />
 </h1>
 
-<p align="center"> <a href="https://twitter.com/SedooBitto" target="blank"><img src="https://img.shields.io/twitter/follow/SedooBitto?color=1DA1F2&logo=twitter&style=for-the-badge" alt="SedooBitto" /></a> </p>
+<p align="center"> <a href="https://twitter.com/sedoobitto" target="blank"><img src="https://img.shields.io/twitter/follow/sedoobitto?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sedoobitto" /></a> </p>
 
 ---
 
