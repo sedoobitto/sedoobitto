@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>-->
 
 <h1 align="center">
-<img src="header.svg" />
+<img src="[header.svg](https://imgs.search.brave.com/BKjqqexSSX4cqmbDKbOQXOwzUemkeSDHzR8ij2c14A4/rs:fit:841:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/cEx1TXZ0aElFR2hG/dTZXNjJJbG1BSGFF/TCZwaWQ9QXBp)" />
 </h1>
 
 
