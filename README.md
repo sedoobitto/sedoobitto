@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>
 
-- 👨🏽‍💻 Software Engineering and Project Management student with basic skills in Software and Management. Pssionate in solving world problems with my acquired skills.
+- 👨🏽‍💻 Software Engineering and Project Management student with basic skills in Software and Management. Passionate in solving world problems with my acquired skills.
 
 - 👀 I’m interested in Tech.
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects** and on money making ventures. 
 
-- 📫 Reach me **sedoobitto@gmail.com**
+- 📫 Reach me at **sedoobitto@gmail.com**
 ---
 
 
