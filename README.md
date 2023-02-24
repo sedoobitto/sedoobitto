@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>-->
+<h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>
 
 - 👨🏽‍💻 Software Engineering and Project Management student with basic skills in Software and Management. Pssionate in solving world problems with my acquired skills.
 
