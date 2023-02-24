@@ -1,10 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>-->
 
-<h1 align="center">
-<img src="[header.svg](https://imgs.search.brave.com/BKjqqexSSX4cqmbDKbOQXOwzUemkeSDHzR8ij2c14A4/rs:fit:841:225:1/g:ce/aHR0cHM6Ly90c2U0/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5v/cEx1TXZ0aElFR2hG/dTZXNjJJbG1BSGFF/TCZwaWQ9QXBp)" />
-</h1>
-
-
 <p align="center"> <a href="https://twitter.com/sedoobitto" target="blank"><img src="https://img.shields.io/twitter/follow/sedoobitto?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sedoobitto" /></a> </p>
 
 ---
