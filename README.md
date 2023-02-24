@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>-->
+<h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>-->
 
 <h1 align="center">
 <img src="header.svg" />
