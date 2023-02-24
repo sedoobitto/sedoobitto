@@ -1,5 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>
 
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm MD. Shahriyar Al Mustakim Mitul</h1>
+<h3 align="center">A Passionate Problem Solver and Open-Source Contributor</h3>
+
+
+<!--<h1 align="center">Hi there 👋, I'm Ian Kisali</h1>-->
+
+<h1 align="center">
+<img src="header.svg" />
+</h1>
+
+
 - 👨🏽‍💻 Software Engineering and Project Management student with basic skills in Software and Management. Pssionate in solving world problems with my acquired skills.
 
 - 👀 I’m interested in Tech.
