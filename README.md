@@ -6,7 +6,7 @@
 
 ---
 
-- 👀 Profound interest in the realm of software engineering
+- 👀 Profound interest in the realm of Tech.
 
 - 🔭 Currently studying **Software Engineering** at **ALX-Africa**.
 
