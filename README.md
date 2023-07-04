@@ -1,22 +1,24 @@
-<h1 align="center">Hi there 👋, I'm Sedoo Bitto</h1>
+<h1 align = "center">
+<img src="header.svg" />
+</h1>
 
-- 👨🏽‍💻 Software Engineering and Project Management student with basic skills in Software and Management. Passionate in solving world problems with my acquired skills.
+<p align="center"> <a href="https://twitter.com/sedoobitto" target="blank"><img src="https://img.shields.io/twitter/follow/sedoobitto?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sedoobitto" /></a> </p>
 
-- 👀 I’m interested in Tech.
+---
+
+- 👀 Profound interest in the realm of software engineering
 
 - 🔭 Currently studying **Software Engineering** at **ALX-Africa**.
 
-- 🌱 I’m currently learning **C(Programming Language)**.
+- 👯 I’m passionate and looking forward to collaborate on **Open Source Projects** as a **Backend** Engineer.
 
-- 👯 I’m looking to collaborate on **Open Source Projects** and on money making ventures. 
-
-- 📫 Reach me at **sedoobitto@gmail.com**
+- 📫 Reach me **How to reach me sedoobitto@gmail.com**
 ---
 
 
 ## Connect with me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sedoobitto)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SedooBitto) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sedoobitto/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sedoobitto) 
 
 ---
 
@@ -24,24 +26,14 @@
 ## 💻 My Stats:
 <div align="center">
 
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=github_dark&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=github_dark"/>-->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sedoobitto&show_icons=true&theme=github_dark&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=github_dark"/>
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bittosedoo&show_icons=true&theme=ambient-gradient&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bittosedoo&layout=compact&langs_count=7&theme=ambient-gradient"/>-->
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sedoobitto&&theme=tokyonight" alt="sedoobitto" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bittosedoo&&theme=ambient-gradient" alt="bittosedoo" />
+
 
 <br>
 <br>
-
-<!--[![Sedoo Bitto's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sedoobitto&&theme=xcode)](https://github.com/sedoobitto)-->
 
 </div>
-<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sedoobitto&theme=merko)-->
 
----
-
-<!---
-sedoobitto/sedoobitto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
