@@ -10,7 +10,7 @@
 
 - 🔭 Currently studying **Software Engineering** at **ALX-Africa**.
 
-- 👯 I’m passionate and looking forward to collaborate on **Open Source Projects** as a **Backend** Engineer.
+- 👯 Looking forward to collaborate on **Open Source Projects** as a **Backend** Engineer.
 
 - 📫 Reach me **How to reach me sedoobitto@gmail.com**
 ---
