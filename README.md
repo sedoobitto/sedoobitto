@@ -9,7 +9,7 @@
 
 - 👯 **Backend** enthusiast, eager to dive into **Open Source projects**.
 
-- 📫 Reach me **How to reach me sedoobitto@gmail.com**
+- 📫 Reach out at **sedoobitto@gmail.com**
 ---
 
 
