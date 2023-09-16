@@ -5,12 +5,9 @@
 <p align="center"> <a href="https://twitter.com/sedoobitto" target="blank"><img src="https://img.shields.io/twitter/follow/sedoobitto?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sedoobitto" /></a> </p>
 
 ---
+- 🔭 Exploring the world of Tech.
 
-- 👀 Profound interest in the realm of Tech.
-
-- 🔭 Currently studying **Software Engineering** at **ALX-Africa**.
-
-- 👯 Looking forward to collaborate on **Open Source Projects** as a **Backend** Engineer.
+- 👯 **Backend** enthusiast, eager to dive into **Open Source projects**.
 
 - 📫 Reach me **How to reach me sedoobitto@gmail.com**
 ---
