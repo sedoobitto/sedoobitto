@@ -13,7 +13,7 @@
 
 - 📫 Reach out at **sedoobitto@gmail.com**
   
-- 🌐 Visit my site ([Wix](https://sedoobitto.wixsite.com/pmhub) for more insights and projects!
+<!-- - 🌐 Visit my site [Wix](https://sedoobitto.wixsite.com/pmhub) for more insights and projects! -->
 ---
 
 
