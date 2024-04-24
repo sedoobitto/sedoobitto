@@ -5,11 +5,15 @@
 <p align="center"> <a href="https://twitter.com/sedoobitto" target="blank"><img src="https://img.shields.io/twitter/follow/sedoobitto?color=1DA1F2&logo=twitter&style=for-the-badge" alt="sedoobitto" /></a> </p>
 
 ---
-- 🔭 Exploring the world of Tech.
+- 🔭 Exploring the Tech Landscape.
+  
+- 🌟 Driving Product Excellence in the Digital Sphere.
 
-- 👯 **Backend** enthusiast, eager to dive into **Open Source projects**.
+- 👯 Committed to seamless cross-functional collaboration for project success.
 
 - 📫 Reach out at **sedoobitto@gmail.com**
+  
+- 🌐 Visit my site ([Wix](https://sedoobitto.wixsite.com/pmhub) for more insights and projects!
 ---
 
 
