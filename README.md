@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="header.svg" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=E6A8D7&center=true&vCenter=true&width=700&lines=Horse+Lover+🐎;Python+Explorer+🐍;Product+Builder+🚀;Learning+in+Public+✨" />
 </p>
 
@@ -35,32 +31,27 @@ Building one line of code at a time and documenting the journey.
 * ✨ Learning in public
 
 ---
-## 💻 My Stats:
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=github_dark&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=github_dark"/>
+## 💻 My Stats
 
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="bittosedoo" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=rose&count_private=true&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=rose&hide_border=true" />
+</p>
 
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=rose&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Git-E6D3A3?style=for-the-badge&logo=git&logoColor=333" />
-
-<img src="https://img.shields.io/badge/GitHub-E8D4FF?style=for-the-badge&logo=github&logoColor=333" />
-
-<img src="https://img.shields.io/badge/VS_Code-DCC6FF?style=for-the-badge&logo=visualstudiocode&logoColor=333" />
-
+  <img src="https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E6D3A3?style=for-the-badge&logo=git&logoColor=333" />
+  <img src="https://img.shields.io/badge/GitHub-E8D4FF?style=for-the-badge&logo=github&logoColor=333" />
+  <img src="https://img.shields.io/badge/VS_Code-DCC6FF?style=for-the-badge&logo=visualstudiocode&logoColor=333" />
 </p>
 
 ---
@@ -69,8 +60,7 @@ Building one line of code at a time and documenting the journey.
 
 ### 🐎 Currently Riding Toward 🌸
 
- **My Learning Trail**
-
+#### My Learning Trail
 * 🐍 Python through CS50
 * 🧠 Problem-Solving & Algorithms
 * 🤖 AI Automation
@@ -79,9 +69,9 @@ Building one line of code at a time and documenting the journey.
 
 ### 🎯 Current Mission
 
-```text
 Rank: Beginner Explorer 🤠
 
+```text
 🐍 Python               [██████░░░░░░░░░░░]
 📚 Git & GitHub         [████░░░░░░░░░░░░░]
 🤖 AI Automation        [███░░░░░░░░░░░░░░]
