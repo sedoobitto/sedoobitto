@@ -86,15 +86,15 @@ skills = {
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=rose_pine&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&theme=rose_pine&hide_border=true" />
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sedoobitto&theme=rose-pine&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=sedoobitto&theme=rose-pine&hide_border=true" />
 
 </p>
 
@@ -103,7 +103,7 @@ skills = {
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sedoobitto/sedoobitto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/sedoobitto/sedoobitto/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
@@ -133,7 +133,7 @@ skills = {
 
 ---
 
-## 🌷 
+## 🌷 Motto
 
 > "Every expert was once a beginner who refused to quit."
 
