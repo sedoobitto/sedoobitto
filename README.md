@@ -19,6 +19,17 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-E8D3FF?style=for-the-badge&logo=visual-studio-code&logoColor=333)
   
 <!-- - 🌐 Visit my site [Wix](https://sedoobitto.wixsite.com/pmhub) for more insights and projects! -->
+
+
+### 📊 My Coding Journey
+
+<p align="left">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=rose&hide_border=true" alt="GitHub Streak" height="150" />
+  
+  <!-- General GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=rose&hide_border=true" alt="GitHub Stats" height="150" />
+</p>
 ---
 
 
