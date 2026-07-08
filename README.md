@@ -12,6 +12,11 @@
 - 👯 Committed to seamless cross-functional collaboration for project success.
 
 - 📫 Reach out at **sedoobitto@gmail.com**
+
+- ### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-FFD1DC?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F3E5AB?style=for-the-badge&logo=git&logoColor=333)
+![VS Code](https://img.shields.io/badge/VS_Code-E8D3FF?style=for-the-badge&logo=visual-studio-code&logoColor=333)
   
 <!-- - 🌐 Visit my site [Wix](https://sedoobitto.wixsite.com/pmhub) for more insights and projects! -->
 ---
