@@ -107,9 +107,7 @@ Building one line of code at a time and documenting the journey.
 
 ---
 
-## 🌷
-
-> "The horizon belongs to those who keep riding toward it 🐎✨"
+## 🌷> "The horizon belongs to those who keep riding toward it 🐎✨"
 
 <p align="center">
 ✨ Thanks for stopping by. Happy coding! 🐎💻
