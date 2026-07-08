@@ -35,20 +35,17 @@ Building one line of code at a time and documenting the journey.
 * ✨ Learning in public
 
 ---
+## 💻 My Stats:
+<div align="center">
 
-## 🎓 CS50 Progress
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=github_dark&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=github_dark"/>
 
-* [ ] Week 0 — Scratch
-* [ ] Week 1 — C
-* [ ] Week 2 — Arrays
-* [ ] Week 3 — Algorithms
-* [ ] Week 4 — Memory
-* [ ] Week 5 — Data Structures
-* [ ] Week 6 — Python
-* [ ] Week 7 — SQL
-* [ ] Week 8 — HTML, CSS & JavaScript
-* [ ] Week 9 — Flask
-* [ ] Week 10 — Final Project
+<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="bittosedoo" />
+
+</div>
+
+---
 
 ---
 
@@ -68,43 +65,31 @@ Building one line of code at a time and documenting the journey.
 
 ---
 
-## 📖 Currently Learning
+## 📖 The Cowgirl Coder Journal
 
-```python
-skills = {
-    "Python": "Learning",
-    "Git": "Learning",
-    "GitHub": "Learning",
-    "Problem Solving": "Improving Daily",
-    "AI Automation": "Exploring"
-}
+### 🐎 Currently Riding Toward 🌸
+
+ **My Learning Trail**
+
+* 🐍 Python through CS50
+* 🧠 Problem-Solving & Algorithms
+* 🤖 AI Automation
+* 🚀 Agentic AI Systems
+* 💻 Building Projects in Public
+
+### 🎯 Current Mission
+
+```text
+Rank: Beginner Explorer 🤠
+
+🐍 Python               [██████░░░░░░░░░░░]
+📚 Git & GitHub         [████░░░░░░░░░░░░░]
+🤖 AI Automation        [███░░░░░░░░░░░░░░]
+🚀 Personal Projects    [██░░░░░░░░░░░░░░░]
 ```
 
----
+*"The goal is to be better than yesterday."*
 
-## 📊 GitHub Journey
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=rose_pine&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&theme=rose_pine&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sedoobitto&theme=rose-pine&hide_border=true" />
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sedoobitto/sedoobitto/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
@@ -135,7 +120,7 @@ skills = {
 
 ## 🌷 Motto
 
-> "Every expert was once a beginner who refused to quit."
+> "The horizon belongs to those who keep riding toward it 🐎✨"
 
 <p align="center">
 ✨ Thanks for stopping by. Happy coding! 🐎💻
