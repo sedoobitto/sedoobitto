@@ -99,7 +99,7 @@ When I'm not coding, you'll probably find me brainstorming product ideas, writin
 * 🍫 Some people run on coffee. I run on chocolate and curiosity.
 
 
-## ✨🐎
+## ✨
 
 <p align="center">
 
