@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center">
-🐎 Horse Lover • 🐍 Python Explorer • 🚀 Product Builder
+🐎 Cowgirl Coder • 🐍 Python Explorer • 🚀 Product Builder
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1800&color=E6A8D7&center=true&vCenter=true&width=900&lines=Cowgirl+Coder;Learning+Python+Through+CS50;Exploring+the+World+of+Agentic+AI;Building+in+Public;Storyteller+at+Heart;Obsessed+with+Horses" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1800&color=E6A8D7&center=true&vCenter=true&width=900&lines=Cowgirl+Coder;Building+in+Public;Turning+Ideas+Into+Projects;Learning+One+Commit+at+a+Time;Storyteller+at+Heart;Obsessed+With+Horses" />
 </p>
 
 <p align="center">
@@ -16,35 +16,33 @@ Building one line of code at a time and documenting the journey.
 
 ---
 
-## 🌸👩‍💻 About Me
+## 🌸 About Me
 
-* 🎓 Currently working through CS50 and building foundational coding skills.
-* 🐍 Learning Python and exploring the world of Agentic AI.
-* 🚀 My background is in product management and digital products, but I'm now focused on becoming a stronger technical builder by learning software development from the ground up.
-* ✨ Building in public and sharing my coding journey.
-* 🎨 Fun fact: When I'm not coding, you'll probably find me writing stories, designing product ideas, or obsessing over horses.
-  
+I'm a product builder learning software development from the ground up.
+
+After years spent building and managing digital products, I decided to strengthen my technical foundations by learning how to code. I'm currently working through CS50, learning Python, improving my problem-solving skills, and building projects along the way.
+
+I believe the best way to learn is to build in public, stay consistent, and keep showing up even when progress feels slow.
+
+When I'm not coding, you'll probably find me writing stories, brainstorming product ideas, or talking about horses.
+
 ---
 
-## 💻 My Stats:
+## 💻 My Stats
+
 <div align="center">
 
-  <img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="bittosedoo" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="sedoobitto" />
 
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=github_dark&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=github_dark"/>
--->
 </div>
 
 ---
 
-## 🧰 Toolkit:
+## 🧰 Toolkit
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" />
-
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
@@ -57,35 +55,45 @@ Building one line of code at a time and documenting the journey.
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
+
+---
+
+## 🚀 Current Projects
+
+* 🌸 Working through CS50 problem sets
+* 🐍 Building Python fundamentals
+* 🧠 Practicing problem-solving and algorithms
+* 🤖 Exploring AI automation and agentic systems
+* 💻 Building small projects to strengthen coding skills
+* 🌱 Developing a consistent daily coding habit
+
 ---
 
 ## 📖 The Cowgirl Coder Journal
 
-### 🐎 Currently Riding Toward 🌸
+### 🐎 Currently Riding Toward
 
-* 🐍 Python through CS50
-* 🧠 Problem-Solving & Algorithms
-* 🤖 AI Automation
-* 🚀 Agentic AI Systems
-* 💻 Building Projects
-* 🌱 Building Consistency Through Daily Coding
+* Strong Python foundations
+* Better problem-solving skills
+* Real-world coding projects
+* AI automation workflows
+* Agentic AI systems
+* Becoming a stronger technical builder
 
-
-*"The goal is to be better than yesterday."*
-
+> *"The goal is to be better than yesterday."*
 
 ---
 
 ## 🐎 Fun Facts
 
-* 🐴 I love horses.
-* 📚 I enjoy building products and telling stories.
-* 🌱 I believe consistency beats intensity.
-* ☕️ Most problems look easier after a cup of coffee and a good debugging session.
+* 🐴 If I had to choose between a sports car and a horse, I'd choose the horse.
+* 📚 I love storytelling almost as much as I love building products.
+* 🌱 I believe small daily progress compounds into extraordinary results.
+* ☕ Half my bugs disappear after coffee. The other half become features.
 
 ---
 
-##📫 Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
 
@@ -94,16 +102,19 @@ Building one line of code at a time and documenting the journey.
 </a>
 
 <a href="https://twitter.com/sedoobitto">
-<img src="https://img.shields.io/badge/Twitter-Follow-E8D4FF?style=for-the-badge&logo=twitter&logoColor=333" />
+<img src="https://img.shields.io/badge/X-Follow-E8D4FF?style=for-the-badge&logo=x&logoColor=333" />
 </a>
 
 </p>
 
-
 ---
 
-## ✨🐎 "The horizon belongs to those who keep riding toward it" 🐎✨
+## ✨🐎
 
 <p align="center">
+
+### "Every expert was once a beginner who kept showing up."
+
 ✨ Thanks for stopping by. Happy coding! 🐎💻
+
 </p>
