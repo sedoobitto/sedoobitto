@@ -23,28 +23,22 @@ Building one line of code at a time and documenting the journey.
 * 🚀 My background is in product management and digital products, but I'm now focused on becoming a stronger technical builder by learning software development from the ground up.
 * ✨ Building in public and sharing my coding journey.
 * 🎨 Fun fact: When I'm not coding, you'll probably find me writing stories, designing product ideas, or obsessing over horses.
-
+  
 ---
 
-## 🌱 Current Journey
-
-* 🐍 Learning Python with CS50
-* 🌱 Building consistency through daily coding
-* 📚 Exploring Git and GitHub
-* 🤖 Interested in AI, automation, and agentic systems
-* ✨ Learning in public
-
----
 ## 💻 My Stats:
 <div align="center">
 
   <img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="bittosedoo" />
 
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=github_dark&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=github_dark"/>
+-->
 </div>
 
 ---
 
-## 🧰 Toolkit
+## 🧰 Toolkit:
 
 <p align="center">
 
@@ -69,13 +63,13 @@ Building one line of code at a time and documenting the journey.
 
 ### 🐎 Currently Riding Toward 🌸
 
- My Learning Trail
-
 * 🐍 Python through CS50
 * 🧠 Problem-Solving & Algorithms
 * 🤖 AI Automation
 * 🚀 Agentic AI Systems
-* 💻 Building Projects in Public
+* 💻 Building Projects
+* 🌱 Building Consistency Through Daily Coding
+
 
 *"The goal is to be better than yesterday."*
 
