@@ -48,6 +48,10 @@ When I'm not coding, you'll probably find me writing stories, designing product 
 
 ---
 
+## 💻 My Stats: <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=github_dark&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=github_dark"/> <img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="bittosedoo" /> <br> <br> </div>
+
+---
+
 ## 📖 Currently Learning
 
 ```python
