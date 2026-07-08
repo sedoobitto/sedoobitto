@@ -7,6 +7,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=E6A8D7&center=true&vCenter=true&width=750&lines=🤠+Cowgirl+Coder;🐎+Horse+Lover;🐍+Learning+Python+through+CS50;🚀+Future+Builder;✨+Documenting+the+Journey" />
+</p>
+
+<p align="center">
 Building one line of code at a time and documenting the journey.
 </p>
 
