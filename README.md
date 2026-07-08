@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-🐎 Cowgirl Coder • 🐍 Python Explorer • 🚀 Product Builder
+🐎 Cowgirl Coder • 🚀 Product Builder • 🐍 Python Explorer • 🤖 Agentic AI Explorer
 </h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-Building one line of code at a time and documenting the journey.
+From entrepreneur to developer—documenting the journey one line of code at a time.
 </p>
 
 ---
@@ -20,14 +20,47 @@ Building one line of code at a time and documenting the journey.
 
 I'm a product builder learning software development from the ground up.
 
-After years spent building and managing digital products, I decided to strengthen my technical foundations by learning how to code. I'm currently working through CS50, learning Python, improving my problem-solving skills, and building projects along the way.
+Entrepreneur turned aspiring developer. Running my own yogurt business sparked my interest in product building, AI automation, and Agentic AI.
 
-I believe the best way to learn is to build in public, stay consistent, and keep showing up even when progress feels slow.
+I'm currently working through CS50, learning Python, improving my problem-solving skills, and building projects along the way.
 
-When I'm not coding, you'll probably find me writing stories, brainstorming product ideas, or talking about horses.
+I believe the best way to learn is to stay consistent, and keep showing up even when progress feels slow.
+
+When I'm not coding, you'll probably find me brainstorming product ideas, writing stories or obsessing over horses.
 
 ---
 
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+
+<a href="mailto:sedoobitto@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-F8C8DC?style=for-the-badge&logo=gmail&logoColor=333" />
+</a>
+
+<a href="https://twitter.com/sedoobitto">
+<img src="https://img.shields.io/badge/X-Follow-E8D4FF?style=for-the-badge&logo=x&logoColor=333" />
+</a>
+</p>
+
+---
+
+---
+
+## 🚀 Current Projects
+
+* 🌸 Working through CS50 problem sets
+* 🐍 Building Python fundamentals
+* 🧠 Practicing problem-solving and algorithms
+* 🤖 Exploring AI automation and agentic systems
+* 💻 Building small projects to strengthen coding skills
+* 🌱 Developing a consistent daily coding habit
+  
+> *"The goal is to be better than yesterday."*
+
+---
 ## 💻 My Stats
 
 <div align="center">
@@ -58,56 +91,13 @@ When I'm not coding, you'll probably find me writing stories, brainstorming prod
 
 ---
 
-## 🚀 Current Projects
-
-* 🌸 Working through CS50 problem sets
-* 🐍 Building Python fundamentals
-* 🧠 Practicing problem-solving and algorithms
-* 🤖 Exploring AI automation and agentic systems
-* 💻 Building small projects to strengthen coding skills
-* 🌱 Developing a consistent daily coding habit
-
----
-
-## 📖 The Cowgirl Coder Journal
-
-### 🐎 Currently Riding Toward
-
-* Strong Python foundations
-* Better problem-solving skills
-* Real-world coding projects
-* AI automation workflows
-* Agentic AI systems
-* Becoming a stronger technical builder
-
-> *"The goal is to be better than yesterday."*
-
----
-
 ## 🐎 Fun Facts
 
 * 🐴 If I had to choose between a sports car and a horse, I'd choose the horse.
 * 📚 I love storytelling almost as much as I love building products.
 * 🌱 I believe small daily progress compounds into extraordinary results.
-* ☕ Half my bugs disappear after coffee. The other half become features.
+* 🍫 Some people run on coffee. I run on chocolate and curiosity.
 
----
-
-## 📫 Let's Connect
-
-<p align="center">
-
-<a href="mailto:sedoobitto@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say%20Hello-F8C8DC?style=for-the-badge&logo=gmail&logoColor=333" />
-</a>
-
-<a href="https://twitter.com/sedoobitto">
-<img src="https://img.shields.io/badge/X-Follow-E8D4FF?style=for-the-badge&logo=x&logoColor=333" />
-</a>
-
-</p>
-
----
 
 ## ✨🐎
 
