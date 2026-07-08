@@ -43,7 +43,12 @@ Building one line of code at a time and documenting the journey.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&theme=rose_pine&hide_border=true"/>
 
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=sedoobitto&theme=rose-pine&hide_border=true"/>
+
 </div>
+
 
 
 ---
