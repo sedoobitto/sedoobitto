@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=E6A8D7&center=true&vCenter=true&width=700&lines=Horse+Lover+🐎;Python+Explorer+🐍;Product+Builder+🚀;Learning+in+Public+✨" />
+  <img src="header.svg" />
 </p>
 
 <h3 align="center">
