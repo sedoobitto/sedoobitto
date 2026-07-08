@@ -76,15 +76,6 @@ Building one line of code at a time and documenting the journey.
 * 🚀 Agentic AI Systems
 * 💻 Building Projects in Public
 
-### 🎯 Current Mission
-
-Rank: Beginner Explorer 🤠
-
-🐍 Python               [██████░░░░░░░░░░░]
-📚 Git & GitHub         [████░░░░░░░░░░░░░]
-🤖 AI Automation        [███░░░░░░░░░░░░░░]
-🚀 Personal Projects    [██░░░░░░░░░░░░░░░]
-
 *"The goal is to be better than yesterday."*
 
 
@@ -99,19 +90,20 @@ Rank: Beginner Explorer 🤠
 
 ---
 
-## 📫 Let's Connect
+##📫 Let's Connect
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sedoobitto/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-E8D4FF?style=for-the-badge&logo=linkedin&logoColor=333" />
+<a href="mailto:sedoobitto@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-F8C8DC?style=for-the-badge&logo=gmail&logoColor=333" />
 </a>
 
 <a href="https://twitter.com/sedoobitto">
-<img src="https://img.shields.io/badge/Twitter-Follow-F8C8DC?style=for-the-badge&logo=twitter&logoColor=333" />
+<img src="https://img.shields.io/badge/Twitter-Follow-E8D4FF?style=for-the-badge&logo=twitter&logoColor=333" />
 </a>
 
 </p>
+
 
 ---
 
