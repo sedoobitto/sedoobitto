@@ -38,30 +38,31 @@ Building one line of code at a time and documenting the journey.
 ## 💻 My Stats:
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=github_dark&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=github_dark"/>
-
-<img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="bittosedoo" />
+  <img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="bittosedoo" />
 
 </div>
----
 
 ---
 
-## 🛠 Tech Stack
+## 🧰 Toolkit
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" />
 
-<img src="https://img.shields.io/badge/Git-E6D3A3?style=for-the-badge&logo=git&logoColor=333" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
-<img src="https://img.shields.io/badge/GitHub-E8D4FF?style=for-the-badge&logo=github&logoColor=333" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-<img src="https://img.shields.io/badge/VS_Code-DCC6FF?style=for-the-badge&logo=visualstudiocode&logoColor=333" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Product_Management-FF69B4?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Project_Management-9370DB?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
-
 ---
 
 ## 📖 The Cowgirl Coder Journal
@@ -107,7 +108,7 @@ Building one line of code at a time and documenting the journey.
 
 ---
 
-## 🌷> "The horizon belongs to those who keep riding toward it 🐎✨"
+## ✨🐎 "The horizon belongs to those who keep riding toward it" 🐎✨
 
 <p align="center">
 ✨ Thanks for stopping by. Happy coding! 🐎💻
