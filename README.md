@@ -1,11 +1,13 @@
-# Hi there, I'm Sedoo 👋
-
 <p align="center">
   <img src="header.svg" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=E6A8D7&center=true&vCenter=true&width=700&lines=Horse+Lover+🐎;Python+Explorer+🐍;Product+Builder+🚀;Learning+in+Public+✨" />
+</p>
+
 <h3 align="center">
-🤠 Cowgirl • 🐎 Horse Lover • 🐍 Python Learner • 🚀 Product Builder
+🐎 Horse Lover • 🐍 Python Explorer • 🚀 Product Builder
 </h3>
 
 <p align="center">
@@ -14,21 +16,39 @@ Building one line of code at a time and documenting the journey.
 
 ---
 
-## 🌸 About Me
+## 🌸👩‍💻 About Me
 
-I'm currently learning Python through Harvard's CS50 and using GitHub to document my growth as a developer.
+* 🎓 Currently working through CS50 and building foundational coding skills.
+* 🐍 Learning Python and exploring the world of Agentic AI.
+* 🚀 My background is in product management and digital products, but I'm now focused on becoming a stronger technical builder by learning software development from the ground up.
+* ✨ Building in public and sharing my coding journey.
+* 🎨 Fun fact: When I'm not coding, you'll probably find me writing stories, designing product ideas, or obsessing over horses.
 
-My background is in product management and digital products, but I'm now focused on becoming a stronger technical builder by learning software development from the ground up.
+---
 
-When I'm not coding, you'll probably find me writing stories, designing product ideas, or obsessing over horses.
-
-### Current Journey
+## 🌱 Current Journey
 
 * 🐍 Learning Python with CS50
 * 🌱 Building consistency through daily coding
 * 📚 Exploring Git and GitHub
-* 🚀 Interested in AI, automation, and agentic systems
+* 🤖 Interested in AI, automation, and agentic systems
 * ✨ Learning in public
+
+---
+
+## 🎓 CS50 Progress
+
+* [ ] Week 0 — Scratch
+* [ ] Week 1 — C
+* [ ] Week 2 — Arrays
+* [ ] Week 3 — Algorithms
+* [ ] Week 4 — Memory
+* [ ] Week 5 — Data Structures
+* [ ] Week 6 — Python
+* [ ] Week 7 — SQL
+* [ ] Week 8 — HTML, CSS & JavaScript
+* [ ] Week 9 — Flask
+* [ ] Week 10 — Final Project
 
 ---
 
@@ -45,10 +65,6 @@ When I'm not coding, you'll probably find me writing stories, designing product 
 <img src="https://img.shields.io/badge/VS_Code-DCC6FF?style=for-the-badge&logo=visualstudiocode&logoColor=333" />
 
 </p>
-
----
-
-## 💻 My Stats: <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=github_dark&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&langs_count=7&theme=github_dark"/> <img align="center" src= "https://github-readme-streak-stats.herokuapp.com?user=sedoobitto&theme=ambient-gradient&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="bittosedoo" /> <br> <br> </div>
 
 ---
 
@@ -70,9 +86,9 @@ skills = {
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=rose_pine&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sedoobitto&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&theme=rose_pine&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sedoobitto&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
 
 </p>
 
@@ -84,11 +100,20 @@ skills = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sedoobitto/sedoobitto/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🐎 Fun Facts
 
-* I love horses.
-* I enjoy building products and telling stories.
-* I believe consistency beats intensity.
+* 🐴 I love horses.
+* 📚 I enjoy building products and telling stories.
+* 🌱 I believe consistency beats intensity.
+* ☕ Most problems look easier after a cup of coffee and a good debugging session.
 
 ---
 
@@ -108,6 +133,10 @@ skills = {
 
 ---
 
-### 🌷 
+## 🌷 
 
 > "Every expert was once a beginner who refused to quit."
+
+<p align="center">
+✨ Thanks for stopping by. Happy coding! 🐎💻
+</p>
