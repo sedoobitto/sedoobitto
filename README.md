@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1000&color=E6A8D7&center=true&vCenter=true&width=700&lines=Cowgirl+Coder;Horse+Lover;Learning+Python+through+CS50;Future+Builder;Documenting+the+Journey" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=28&pause=1800&color=E6A8D7&center=true&vCenter=true&width=900&lines=🤠+Cowgirl+Coder;🐍+Learning+Python+Through+CS50;🤖+Exploring+the+World+of+Agentic+AI;🚀+Building+in+Public;📚+Storyteller+at+Heart;🐎+Obsessed+with+Horses" />
 </p>
 
 <p align="center">
