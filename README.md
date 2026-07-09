@@ -17,19 +17,23 @@ From entrepreneur to developer—documenting the journey one line of code at a t
 ---
 
 ## 🌸 About Me
+**Entrepreneur & Product Builder turned Developer.**
 
-I'm a product builder learning software development from the ground up.
-
-Entrepreneur turned aspiring developer. Running my own yogurt business sparked my interest in product building, AI automation, and Agentic AI.
-
-I'm currently working through CS50, learning Python, improving my problem-solving skills, and building projects along the way.
-
-I believe the best way to learn is to stay consistent, and keep showing up even when progress feels slow.
-
-When I'm not coding, you'll probably find me brainstorming product ideas, writing stories or obsessing over horses.
+I hold a BSc in Computer Science, but my obsession with building actually sparked while running my own yogurt business. That hands-on experience drove me into the world of **AI automation, Agentic AI, and product building**.
 
 ---
 
+### 🚀 What I'm Up To
+* 💻 **Deepening Tech Skills:** Currently diving into **Python** and **CS50** to sharpen my foundational problem-solving.
+* 🛠️ **Building in Public:** Focusing on hands-on projects, automated workflows, and AI experiments.
+* 📈 **Philosophy:** Consistent, daily progress. Showing up every day to build, break, and learn.
+
+---
+
+### 🐴 Beyond the Code
+When I'm not in the IDE, I'm brainstorming new product ideas, writing stories, or obsessing over horses.
+
+---
 ---
 
 ## 📫 Let's Connect
@@ -71,7 +75,7 @@ When I'm not coding, you'll probably find me brainstorming product ideas, writin
 
 ---
 
-## 🧰 Toolkit
+## 🛠️ Tech & Tools
 
 <p align="center">
 
